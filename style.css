@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: rgb(192, 255, 245);
     text-align: center;
     margin: 0px;
 }
@@ -9,8 +9,16 @@ header {
     font-size: 32px;
     color: rgb(42, 122, 228);
 }
-p { 
-    color: lightpink;
+section {
+    background: rgb(162, 250, 246);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+p { section {
+
+    color: rgb(182, 255, 249);
 }
 
 .tubatu {
